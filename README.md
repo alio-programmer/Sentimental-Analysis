@@ -4,6 +4,8 @@ In this project I web scrapped some articles by BlackCoffers and did a Sentiment
 2) Polarity Score
 3) Gunning Fog Index
 4) Count of Complex words
+   
+The result of this is stored in myfinalresult.xslx file
 
 For this project I have used following libraries:
 1) NLTK library
