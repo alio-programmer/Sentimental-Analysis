@@ -1,5 +1,5 @@
 # Sentimental-Analysis
-In this project I web scrapped some articles by BlackCoffers and did a Sentimental analysis on the articles as I have calculated various variables like like:
+In this project I web scrapped some articles by BlackCoffers and did a Sentimental analysis on the articles as I have calculated various variables like:
 1) Positive and Negative Score
 2) Polarity Score
 3) Gunning Fog Index
